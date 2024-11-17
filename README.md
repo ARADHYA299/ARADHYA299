@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARADHYA299
-- 👀 I’m interested in ...machine learning , AI , MERN stack 
-- 🌱 I’m currently learning ... deep learning and mern stack
-- 💞️ I’m looking to collaborate on ... industrial projects
+- 👀 I’m interested in ...machine learning , full stack and quant finance 
+- 🌱 I’m currently learning ... deep learning and quant finance 
+- 💞️ I’m looking to collaborate on ... industrial projects related to my tech stack
 - 📫 How to reach me ... contact me via nautiyalaradhya63@gmail.com or on linkedIn Aradhya Nautiyal
 
  <!---
